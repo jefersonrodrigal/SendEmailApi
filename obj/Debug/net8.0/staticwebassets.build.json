@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PfV9nRR3LRgLnZvO9aAKEzBBmmT8BHdm++gb3uEVkns=",
+  "Source": "SendEmailApi",
+  "BasePath": "_content/SendEmailApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
